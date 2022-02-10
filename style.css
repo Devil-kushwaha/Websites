@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aqua;
+    margin: 10%;
+}
+
+#content {
+    background-color: bisque;
+    padding: 20px;
+}
+
+#main {
+    text-align: center;
+    width: 100%;
+    display: flex;
+}
+
+#main>h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+#main>img {
+    height: 700px;
+}
